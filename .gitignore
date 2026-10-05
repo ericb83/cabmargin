@@ -1,0 +1,20 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+**/bin/
+**/obj/
+
+# Secrets and local config
+.env
+.env.*
+*.user
+*.suo
+*.db
+
+# IDE
+.vs/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
